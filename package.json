@@ -39,7 +39,7 @@
   "devDependencies": {
     "@babel/cli": "^7.23.9",
     "@babel/core": "^7.24.4",
-    "@babel/preset-env": "^7.24.3",
+    "@babel/preset-env": "^7.24.5",
     "@babel/preset-react": "^7.23.3",
     "babel-jest": "^29.7.0",
     "babel-preset-minify": "^0.5.2",
