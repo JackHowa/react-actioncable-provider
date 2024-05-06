@@ -40,7 +40,7 @@
     "@babel/cli": "^7.24.5",
     "@babel/core": "^7.24.4",
     "@babel/preset-env": "^7.24.5",
-    "@babel/preset-react": "^7.23.3",
+    "@babel/preset-react": "^7.24.1",
     "babel-jest": "^29.7.0",
     "babel-preset-minify": "^0.5.2",
     "chai": "^5.1.0",
